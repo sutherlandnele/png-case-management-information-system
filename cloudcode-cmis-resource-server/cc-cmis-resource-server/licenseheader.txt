@@ -1,0 +1,15 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}************************************************************************
+${licensePrefix}Cloudcode PNG Limited Case Management Information System (CMIS) version 1.0.0
+${licensePrefix}************************************************************************
+${licensePrefix}Copyright (c) ${date?date?string("yyyy")} Cloudcode PNG Limited
+${licensePrefix}************************************************************************
+${licensePrefix}CMIS RESTApi - Microservice for Cloudcode PNG Limited CMIS project
+${licensePrefix}Support: Sutherland Nele sutherland.nele@cloudcode.com.pg
+${licensePrefix}V01.00.00 
+${licensePrefix}************************************************************************
+<#if licenseLast??>
+${licenseLast}
+</#if>

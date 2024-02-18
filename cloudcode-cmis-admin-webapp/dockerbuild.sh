@@ -1,0 +1,1 @@
+docker build -t cims-admin-webapp-reactjs:dev .

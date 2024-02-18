@@ -1,0 +1,9 @@
+*.jar                                                                                                                                            
+*.log                                                                                                                                            
+*.tar.gz                                                                                                                                         
+*.tar                                                                                                                                            
+                                                                                                                                        
+                                                                                                                                                 
+**/target/
+**/logs/
+**/nbproject/

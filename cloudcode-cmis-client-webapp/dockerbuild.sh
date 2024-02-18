@@ -1,0 +1,1 @@
+docker build -t cims-client-webapp-reactjs:dev .
