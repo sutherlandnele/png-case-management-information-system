@@ -12,6 +12,8 @@
 
 Welcome to the PNG Case Management Information System, a sophisticated application built using Java Spring Boot for the backend and React for the frontend. This system is designed as a microservices architecture to handle different facets of case management efficiently.
 
+The system is currently used by the PNG Immigration & Citizenship Authority (ICA) to manage PNG Asylum seekers (clients).
+
 ## System Components
 
 This application comprises two primary microservices:
