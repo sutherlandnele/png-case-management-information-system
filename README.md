@@ -21,6 +21,11 @@ This application comprises two primary microservices:
 - **Client Web App**: A self-service application accessible only by Clients. It offers read-only information and a feedback submission feature to communicate with System Admins and Status Resolution Managers.
 
 - **Admin Web App**: Used by System Admins, Status Resolution Managers, and ICA for administrative purposes.
+  
+<p align="center">
+  <img align="center" src="./cloudcode-cmis-documentation/cmis-user-domains.png"/>
+</p>
+  
 
 ## User Manual
 
