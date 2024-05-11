@@ -10,7 +10,7 @@
 ```
 ---
 
-Welcome to the Cloudcode PNG Case Management Information System, a sophisticated application built using Java Spring Boot for the backend and React for the frontend. This system is designed as a microservices architecture to handle different facets of case management efficiently.
+Welcome to the Cloudcode PNG Case Management Information System, a sophisticated application built using Java Spring Boot for the backend and React for the frontend which was architected and developed by Cloudcode PNG Limited. This system is designed as a microservices architecture to handle different facets of case management efficiently.
 
 The system is currently used by the PNG Immigration & Citizenship Authority (ICA) to manage PNG Asylum seekers (clients).
 
