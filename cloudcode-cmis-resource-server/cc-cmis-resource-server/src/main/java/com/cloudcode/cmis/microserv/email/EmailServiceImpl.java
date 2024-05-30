@@ -205,7 +205,6 @@ public class EmailServiceImpl implements EmailService {
             messageHelper.setText(content, true);
             
             //add logo as inline message
-            messageHelper.addInline("bsppay_logo.png", new ClassPathResource("images/bsppay_logo.png"));
             
             //offer letter as attachment            
             if(!Common.isNothing(attachFilePath)){                
