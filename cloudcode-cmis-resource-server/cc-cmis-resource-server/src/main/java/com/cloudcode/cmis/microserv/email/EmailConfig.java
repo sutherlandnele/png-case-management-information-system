@@ -27,7 +27,7 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 @EnableAsync
 public class EmailConfig 
 {
-    @Value(value = "${ipgw.api.admin.email.from}")
+    @Value(value = "${cc.api.admin.email.from}")
     private String emailFrom;
     
     @Bean

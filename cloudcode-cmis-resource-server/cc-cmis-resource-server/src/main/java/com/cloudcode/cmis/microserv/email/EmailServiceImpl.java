@@ -56,7 +56,7 @@ public class EmailServiceImpl implements EmailService {
     @Autowired
     private Configuration freemarkerConfig;
 
-    @Value(value = "${ipgw.api.admin.email.from}")
+    @Value(value = "${cc.api.admin.email.from}")
     private String emailFrom;
   
     

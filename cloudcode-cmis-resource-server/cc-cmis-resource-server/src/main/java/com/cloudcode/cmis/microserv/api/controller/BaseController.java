@@ -1,10 +1,10 @@
 /*
  * ************************************************************************
- * Platform Pacific Limited Internet Payment Gateway (IPGW) version 1.0.0
+ * Cloudcode PNG Limited Case Management Information System Version 1.0.0
  * ************************************************************************
- * Copyright (c) 2021 Platform Pacific Limited
+ * Copyright (c) 2021 Cloudcode PNG Limited
  * ************************************************************************
- * IPGW Admin API - Microservice for Platform Pacific Limited IPGW project
+ * CC Case Management Resource Server Restful API - Microservice for Case Management System
  * Support: Sutherland Nele sutherland.nele@cloudcode.com.pg
  * V01.00.00 
  * ************************************************************************
